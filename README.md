@@ -6,8 +6,6 @@ A desktop GUI app that fetches and displays a Codeforces user's rating, rank, ma
 
 ![Animated UI](AnimatedUIJiangly.png)
 
-![App Screenshot](Codeforces_Scraper_Screenshot.png)
-
 ---
 
 ## Prerequisites
